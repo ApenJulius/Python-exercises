@@ -11,8 +11,8 @@ Extras:
 2. Print out that many copies of the previous message on separate lines.
 
 # Odd Or Even
-Exercise 2 (and Solution)
-Ask the user for a number. Depending on whether the number is even or odd, print out an appropriate message to the user. Hint: how does an even / odd number react differently when divided by 2?
+Exercise 2
+Ask the user for a number. Depending on whether the number is even or odd, print out an appropriate message to the user.
 
 Extras:
 
