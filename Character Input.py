@@ -9,3 +9,5 @@ print(msg)
 n = int(input("Give me another number: "))
 
 print(msg * n)
+
+input("")
